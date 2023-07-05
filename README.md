@@ -1,5 +1,7 @@
 # faw-bot
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 faw-bot is a very simple discord bot with some basic commands. 
 my favourite command is the `oj` command which gives the current and historical prices of orange juice.
 
