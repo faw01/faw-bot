@@ -1,0 +1,2 @@
+# faw-bot
+discord bot
